@@ -42,7 +42,7 @@ global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '© Chizuru-bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Iky' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = 'Ikyyy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
